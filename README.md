@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I am onXans/onhaxyt 
+
+- 🔭 I’m currently working on a few little NodeJs Projects (onhaxyt/Image-Builder)
+
+- 💬 Ask me about my Projects or any thing else related to programming maybe I can help you
 
 <!--
 **onhaxyt/onhaxyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
