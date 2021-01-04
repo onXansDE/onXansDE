@@ -1,6 +1,8 @@
 ### Hi there I am onXans/onhaxyt 
 
-- 🔭 I’m currently working on a few little NodeJs Projects (onhaxyt/Image-Builder)
+- ⚡ I am also a Freelance Developer on Fiverr -> https://www.fiverr.com/onxans
+
+- 🔭 I’m currently working on my Youtube channel
 
 - 💬 Ask me about my Projects or any thing else related to programming maybe I can help you
 
