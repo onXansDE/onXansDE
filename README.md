@@ -1,9 +1,14 @@
 ### Hi there I am onXans/onhaxyt 
 
-- ⚡ I am also a Freelance Developer on Fiverr -> https://www.fiverr.com/onxans
+- ⚡ I am 17 years old
 
-- 🔭 I’m currently working on my Youtube channel
-
+- 🔭 Languages
+      - Java
+      - JS
+      - C#
+      - C++
+      - Python
+      
 - 💬 Ask me about my Projects or any thing else related to programming maybe I can help you
 
 <!--
