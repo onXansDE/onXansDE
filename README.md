@@ -1,27 +1,10 @@
-### Hi there I am onXans/onhaxyt 
+## Hi there I am onXans 
 
 - ⚡ I am 19 years old
+- 🔭 I’m currently working for Arthrex GmbH as Software Deveoloper
+- 🌱 I’m currently learning Chessprogramming (MinMax, Zobristhashing, etc.)
 
-- 🔭 Languages
-      - Java
-      - JS
-      - C#
-      - C++
-      - Python
-      
-- 💬 Ask me about my Projects or any thing else related to programming maybe I can help you
+### Contact
+If you want to contact me just reach out over Discord **onXans#1772**
 
-<!--
-**onhaxyt/onhaxyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can ask me about my Projects or any thing else related to programming maybe I can help you.
